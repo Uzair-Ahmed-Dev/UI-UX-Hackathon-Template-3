@@ -52,7 +52,7 @@ const page = () => {
                     </div>
                     <div className='flex items-center  my-2 font-sans  '><input type="checkbox" name="" id="" className='w-8 h-8 ' /><p className='text-[#8D8D8D] text-sm pl-2 '>Sign up for emails to get updates from Nike on products, offers and your Member benefits</p></div> 
                     <p className="text-center text-[#8D8D8D] text-sm font-sans my-2 ">
-                    By creating an account, you agree to Nike's{" "}
+                    By creating an account you agree to Nikes{" "}
             <Link href="#" className="underline text-black ">
              Privacy Policy and Terms of Use.
             </Link>

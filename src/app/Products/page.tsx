@@ -89,8 +89,8 @@ const page = () => {
           />
           <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -106,8 +106,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -125,8 +125,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -143,8 +143,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -161,8 +161,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -178,8 +178,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -195,8 +195,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -212,8 +212,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -229,8 +229,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mes Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -247,8 +247,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -264,8 +264,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -282,8 +282,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -300,8 +300,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -318,8 +318,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -336,8 +336,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -353,8 +353,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -371,8 +371,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -389,8 +389,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -407,8 +407,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -424,8 +424,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -442,8 +442,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -460,8 +460,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -478,8 +478,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -496,8 +496,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -514,8 +514,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -532,8 +532,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -550,8 +550,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -568,8 +568,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -586,8 +586,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>
@@ -604,8 +604,8 @@ const page = () => {
           />
           <div className='font-sans'>
             <p className='text-[#9E3500]'>Just In</p>
-            <p className=''>Nike Air Force 1 Mid '07</p>
-            <p className='text-[#757575] text-sm'>Men's Shoes</p>
+            <p className=''>Nike Air Force 1 Mid 07</p>
+            <p className='text-[#757575] text-sm'>Mens Shoes</p>
             <p className='text-[#757575] text-sm'>1 Colour</p>
             <p>MRP : ₹ 10 795.00</p>
           </div>

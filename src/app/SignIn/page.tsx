@@ -32,7 +32,7 @@ const page = () => {
     </div>
     <div>
     <p className="text-center text-[#8D8D8D] text-md font-sans my-2 ">
-    By logging in, you agree to Nike's{" "}
+    By logging in you agree to Nikes{" "}
             <Link href="#" className="underline  ">
             Privacy Policy and Terms of Use.
             </Link>

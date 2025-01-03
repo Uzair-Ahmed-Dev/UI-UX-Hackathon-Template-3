@@ -53,7 +53,7 @@ const Header = () => {
         </div>
         <div className='flex  mx-5'>
             <Link href="">
-            <img 
+            <Image
             src='/image/Auto Layout Horizontal (1).png'
             alt='Auto Layout Horizontal (1)'
             width="50"
@@ -62,7 +62,7 @@ const Header = () => {
             </Link>
 
             <Link href="">
-            <img 
+            <Image
             src='/image/Auto Layout Horizontal (2).png'
             alt='Auto Layout Horizontal (2)'
             width="50"

@@ -186,7 +186,7 @@ const HomePage = () => {
       <div className='flex  w-[1356px] h-[509px]'>
       <div className='w-[666px] h-[509px] '>
           <div className=' flex gap-4 items-center justify-end  w-[666px]  h-[48px]'>
-             <Link href="" className='font-bold rounded'>Shop Men's</Link>
+             <Link href="#" className='font-bold rounded'>Shop Mens</Link>
              <Link href="#">
              <Image
             src='/image/Frame (11).png'
@@ -237,7 +237,7 @@ const HomePage = () => {
             <div className='flex  justify-between gap-5 my-2'>
               <div>
             <p className="text-[#111111] font-medium">Nike Dri-FIT Challenger</p>
-              <p className="w-[150px] h-[48px] text-sm text-[#757575] ">Men's 18cm (approx.) 2-in-1 Versatile Shorts</p>
+              <p className="w-[150px] h-[48px] text-sm text-[#757575] ">Mens 18cm (approx.) 2-in-1 Versatile Shorts</p>
               </div>
               <div>
               <p className="text-[#111111] text-sm my-1  font-medium">₹ 2 495</p>
@@ -250,7 +250,7 @@ const HomePage = () => {
         {/*  */}
         <div className='w-[666px] h-[509px] '>
         <div className=' flex gap-4 items-center justify-end  w-[666px]  h-[48px]'>
-             <Link href="" className='font-bold rounded'>Shop Men's</Link>
+             <Link href="" className='font-bold rounded'>Shop Mens</Link>
              <Link href="#">
              <Image
             src='/image/Frame (11).png'
@@ -281,7 +281,7 @@ const HomePage = () => {
             <div className='flex justify-between gap-5 my-2'>
               <div>
             <p className="text-[#111111] font-medium">Nike Dri-FIT ADV Run Division</p>
-              <p className="w-[150px] h-[48px] text-sm text-[#757575]">Women's Long-Sleeve Running Top</p>
+              <p className="w-[150px] h-[48px] text-sm text-[#757575]">Womens Long-Sleeve Running Top</p>
 
               </div>
               <div>
@@ -303,7 +303,7 @@ const HomePage = () => {
             <div className='flex justify-between  my-2'>
               <div>
             <p className="text-[#111111] font-medium">Nike Fast</p>
-              <p className="w-[200px] h-[48px] text-sm text-[#757575] ">Women's Mid-Rise 7/8 Running Leggings with Pockets</p>
+              <p className="w-[200px] h-[48px] text-sm text-[#757575] ">Womens Mid-Rise 7/8 Running Leggings with Pockets</p>
               </div>
               <div>
               <p className="text-[#111111] text-sm my-1  font-medium">₹ 3,895</p>
@@ -322,7 +322,7 @@ const HomePage = () => {
  {/*  Dont mism section*/}
 
 <section className='w-[1440px] px-12 my-12'>
-<h2  className='text-3xl font-bold my-4'>Don't Miss</h2>
+<h2  className='text-3xl font-bold my-4'>Dont Miss</h2>
 <div className=''>
  <Image
           src="/image/Image (17).png" 
@@ -405,11 +405,11 @@ const HomePage = () => {
     </div>
 
     <div className='flex flex-col gap-4 text-sans '>
-      <p className='font-bold'>Kids'</p>
+      <p className='font-bold'>Kids</p>
       <Link href="#" className='text-[#757575]'>Infant & Toddler Shoes</Link>
-      <Link href="#" className='text-[#757575]'>Kids' Shoes</Link>
-      <Link href="#" className='text-[#757575]'>Kids' Jordan Shoes</Link>
-      <Link href="#" className='text-[#757575]'>Kids' Basketball Shoes</Link>
+      <Link href="#" className='text-[#757575]'>Kids Shoes</Link>
+      <Link href="#" className='text-[#757575]'>Kids Jordan Shoes</Link>
+      <Link href="#" className='text-[#757575]'>Kids Basketball Shoes</Link>
     </div>
   </section>
     
