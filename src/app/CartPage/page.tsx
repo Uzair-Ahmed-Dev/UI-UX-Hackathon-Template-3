@@ -34,7 +34,7 @@ const page = () => {
               
               <div className=' flex flex-col gap-2w[400px] mx-8 '>
                 <p>Nike Dri-FIT ADV TechKnit Ultra</p>
-                <p  className='text-sm text-[#757575] '>Men's Short-Sleeve Running Top</p>
+                <p  className='text-sm text-[#757575] '>Mens Short-Sleeve Running Top</p>
                 <p className='text-sm text-[#757575] '>
                 Ashen Slate/Cobalt Bliss 
                 </p>
@@ -84,7 +84,7 @@ const page = () => {
           
           <div className=' flex flex-col gap-2w[400px] mx-8 '>
             <p>Nike Dri-FIT ADV TechKnit Ultra</p>
-            <p  className='text-sm text-[#757575] '>Men's Short-Sleeve Running Top</p>
+            <p  className='text-sm text-[#757575] '>Mens Short-Sleeve Running Top</p>
             <p className='text-sm text-[#757575] '>
             Ashen Slate/Cobalt Bliss 
             </p>
