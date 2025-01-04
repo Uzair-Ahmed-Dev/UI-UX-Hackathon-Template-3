@@ -7,7 +7,7 @@ import Link from 'next/link'
 
 const page = () => {
   return (
-    <div className='w-[1440px]'>
+    <div className='w-[1440px] h-[100vh]'>
         <Header/>
         {/* Join Us section */}
       <main className='flex justify-center items-center' >

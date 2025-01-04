@@ -25,7 +25,13 @@ const page = () => {
           />
 
           </Link></div>
-          <div>Sort By</div>
+          <div> <label>Sort By</label>
+          <select name="" id="">
+            <option value=""></option>
+            <option value="">b</option>
+            <option value="">c</option>
+            </select>
+          </div>
         </div>
       </section>
         {/*end  head line section */}
@@ -79,7 +85,7 @@ const page = () => {
           <div  className=' w-[1092px]   grid grid-cols-3 gap-4'>
 
 <Link href='Cart'>
-<div className=' hover:shadow-xl rounded-b-lg'>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle.png"
           alt="product"
@@ -97,14 +103,15 @@ const page = () => {
 </div></Link>
 
 <Link href='Cart'>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (1).png"
           alt="product"
           width= "348"
           height= "348"
+           className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -116,14 +123,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg '>
 <Image 
           src="/image/Rectangle (28).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -134,14 +142,15 @@ const page = () => {
 </Link>
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (29).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2 '>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -152,14 +161,15 @@ const page = () => {
 </Link>
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (30).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -169,14 +179,15 @@ const page = () => {
 </div></Link>
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (2).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -186,14 +197,15 @@ const page = () => {
 </div></Link>
 
 <Link href=''>
-<div className='shadow-gray-700'>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (3).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -203,14 +215,15 @@ const page = () => {
 </div></Link>
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (4).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -220,14 +233,15 @@ const page = () => {
 </div></Link>
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (5).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mes Shoes</p>
@@ -238,14 +252,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (6).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -255,14 +270,15 @@ const page = () => {
 </div></Link>
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (7).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -273,14 +289,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (8).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -291,14 +308,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (9).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -309,14 +327,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (10).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -327,14 +346,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (11).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans  p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -344,14 +364,15 @@ const page = () => {
 </div></Link>
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (12).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -362,14 +383,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (13).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -380,14 +402,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (14).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -398,14 +421,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (15).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -415,14 +439,15 @@ const page = () => {
 </div></Link>
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (16).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -433,14 +458,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (17).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -451,14 +477,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (18).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -469,14 +496,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (19).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -487,14 +515,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (20).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -505,14 +534,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (21).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg '
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2 '>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -523,14 +553,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (22).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -541,14 +572,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (23).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -559,14 +591,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (24).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -577,14 +610,15 @@ const page = () => {
 
 
 <Link href=''>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (25).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>
@@ -595,14 +629,15 @@ const page = () => {
 
 
 <Link href='#'>
-<div>
+<div className=' shadow-xl rounded-b-lg'>
 <Image 
           src="/image/Rectangle (26).png"
           alt="product"
           width= "348"
           height= "348"
+          className='rounded-t-lg'
           />
-          <div className='font-sans'>
+          <div className='font-sans p-2'>
             <p className='text-[#9E3500]'>Just In</p>
             <p className=''>Nike Air Force 1 Mid 07</p>
             <p className='text-[#757575] text-sm'>Mens Shoes</p>

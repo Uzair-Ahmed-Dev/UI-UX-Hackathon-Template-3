@@ -7,13 +7,13 @@ const Header = () => {
     <header className='w-[1440px] font-sans '>
         {/* first Head */}
         <div className='flex justify-between items-center h-[36px] bg-[#F5F5F5] px-12'>
-       <Link href=""> <Image src='/image/Frame.png' alt={''} width={24} height={24}/></Link>
+       <Link href="/"> <Image src='/image/Frame.png' alt={''} width={24} height={24}/></Link>
         
 
         <div className='flex gap-4'>
         <Link href="/Products" className="text-[#111111]">Find a Store</Link>
         <p className="text-[#111111] font-bold">|</p>
-        <Link href="/contactUs" className="text-[#111111]">Help</Link>
+        <Link href="/ContactPage" className="text-[#111111]">Help</Link>
         <p className="text-[#111111] font-bold">|</p>
         <Link href="/JoinUs" className="text-[#111111]">Join Us</Link>
         <p className="text-[#111111] font-bold">|</p>
@@ -61,7 +61,7 @@ const Header = () => {
             />
             </Link>
 
-            <Link href="">
+            <Link href="/CartPage ">
             <Image
             src='/image/Auto Layout Horizontal (2).png'
             alt='Auto Layout Horizontal (2)'
