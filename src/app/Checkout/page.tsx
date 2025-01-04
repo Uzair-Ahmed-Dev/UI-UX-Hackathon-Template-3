@@ -48,7 +48,7 @@ const page = () => {
       <main className='flex  justify-center gap-12 my-12  w-[1440px] '>
         <section className='w-[440px]  '>
             <h2 className='text-xl font-bold '>How would you like to get your order?</h2>
-            <p className='text-sm text-[#757575] my-3 '>Customs regulation for India require a copy of the recipient's KYC. The address on the KYC needs to match the shipping address. Our courier will contact you via SMS/email to obtain a copy of your KYC. The KYC will be stored securely and used solely for the purpose of clearing customs (including sharing it with customs officials) for all orders and returns. If your KYC does not match your shipping address, please click the link for more information. <Link href="#" className="underline text-black ">
+            <p className='text-sm text-[#757575] my-3 '>Customs regulation for India require a copy of the recipients KYC. The address on the KYC needs to match the shipping address. Our courier will contact you via SMS/email to obtain a copy of your KYC. The KYC will be stored securely and used solely for the purpose of clearing customs (including sharing it with customs officials) for all orders and returns. If your KYC does not match your shipping address, please click the link for more information. <Link href="#" className="underline text-black ">
             Learn More
             </Link></p>
 
@@ -102,7 +102,7 @@ const page = () => {
 </div>
 
 <div className='flex flex-col gap-4 '>
-<h2 className='text-xl font-bold '>What's your contact information?/</h2>
+<h2 className='text-xl font-bold '>Whats your contact information?/</h2>
 <div>
 <input type="email" name="Email" id=""  placeholder='Email' className='w-[440px] h-[56px] px-2 border-[2px] rounded-md '/>
 <p className='text-sm text-[#757575] my-1'>A confirmation email will be sent after checkout.</p>
