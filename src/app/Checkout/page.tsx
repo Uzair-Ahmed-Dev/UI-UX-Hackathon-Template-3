@@ -175,7 +175,7 @@ Continue
             height="150"
             />
             <div>
-                <p className='font-bold text-sm'>Nike Dri-FIT ADV TechKnit Ultra Men's Short-Sleeve Running Top</p>
+                <p className='font-bold text-sm'>Nike Dri-FIT ADV TechKnit Ultra Mens Short-Sleeve Running Top</p>
                 <p className='text-[12px] text-[#8D8D8D]'>Qty 1</p>
                 <p className='text-[12px] text-[#8D8D8D]'>Size L</p>
                 <p className='text-[12px] text-[#8D8D8D]'>₹ 3 895.00</p>
@@ -192,7 +192,7 @@ Continue
             height="150"
             />
             <div>
-                <p className='font-bold text-sm'>Nike Dri-FIT ADV TechKnit Ultra Men's Short-Sleeve Running Top</p>
+                <p className='font-bold text-sm'>Nike Dri-FIT ADV TechKnit Ultra Mens Short-Sleeve Running Top</p>
                 <p className='text-[12px] text-[#8D8D8D]'>Qty 1</p>
                 <p className='text-[12px] text-[#8D8D8D]'>Size L</p>
                 <p className='text-[12px] text-[#8D8D8D]'>₹ 3 895.00</p>
