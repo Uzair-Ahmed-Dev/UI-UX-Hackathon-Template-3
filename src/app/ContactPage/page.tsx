@@ -43,7 +43,7 @@ const page = () => {
             </div>
             <div className=' flex flex-col gap-4 my-3'>
               <p className='font-bold'>Can I pay for my order with multiple methods?</p>
-              <p>No, payment for Nike orders can't be split between multiple payment methods.</p>
+              <p>No, payment for Nike orders can t be split between multiple payment methods.</p>
             </div>
             <div className=' flex flex-col gap-4 my-3'>
               <p className='font-bold'>What payment method is accepted for SNKRS orders?</p>
@@ -70,7 +70,7 @@ const page = () => {
                     <p className='text-[#757575]'>RELATED</p>
                     <div className='flex flex-col gap-4 mx-12 my-4'>
                     <Link href="/JoinUs" className="underline text-black ">
-                    WHAT ARE NIKE'S DELIVERY OPTIONS?
+                    WHAT ARE NIKE iS DELIVERY OPTIONS?
             </Link> 
             <Link href="/JoinUs" className="underline text-black ">
             HOW DO I GET FREE DELIVERY ON NIKE ORDERS?
