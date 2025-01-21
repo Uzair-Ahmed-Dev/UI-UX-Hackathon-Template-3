@@ -33,7 +33,7 @@ const CartPage = () => {
               <div className="flex flex-col justify-between w-full sm:w-2/3">
                 <div>
                   <p className="font-medium">Nike Dri-FIT ADV TechKnit Ultra</p>
-                  <p className="text-sm text-[#757575]">Men's Short-Sleeve Running Top</p>
+                  <p className="text-sm text-[#757575]">Mens Short-Sleeve Running Top</p>
                   <p className="text-sm text-[#757575]">Ashen Slate/Cobalt Bliss</p>
                   <div className="flex gap-4 mt-2">
                     <p className="text-sm text-[#757575]">Size L</p>

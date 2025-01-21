@@ -175,7 +175,7 @@ const HomePage = () => {
                       <div className='flex justify-between items-start'>
                         <div>
                           <p className="text-[#111111] font-medium">Nike Dri-FIT ADV TechKnit Ultra</p>
-                          <p className="text-sm text-[#757575]">Men's Short-Sleeve Running Top</p>
+                          <p className="text-sm text-[#757575]">Mens Short-Sleeve Running Top</p>
                         </div>
                         <p className="text-[#111111] text-sm font-medium">₹ 2,495</p>
                       </div>
@@ -189,7 +189,7 @@ const HomePage = () => {
 
         {/* Don't Miss section */}
         <section className='px-4 sm:px-6 lg:px-12 my-12'>
-          <h2 className='text-2xl sm:text-3xl font-bold mb-4'>Don't Miss</h2>
+          <h2 className='text-2xl sm:text-3xl font-bold mb-4'>Dont Miss</h2>
           <div className='relative aspect-w-16 aspect-h-9 mb-8'>
             <Image
               src="/image/Image (17).png" 
