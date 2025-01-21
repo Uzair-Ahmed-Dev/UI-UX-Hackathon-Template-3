@@ -50,7 +50,7 @@ const page = () => {
               <p>You can use any accepted credit card to pay for your SNKRS order.</p>
             </div>
             <div>
-              <p className='font-bold text-lg'> Why don &apos;t I see Apple Pay as an option?</p>
+
               <p>To see Apple Pay as an option in the Nike App or on Nike.com, you ll need to use a compatible Apple device running the latest OS, be signed in to your iCloud account and have a supported card in your Wallet. Additionally, you ll need to use Safari to use Apple Pay on Nike.com.</p>
             </div>
             <div>
@@ -70,7 +70,7 @@ const page = () => {
                     <p className='text-[#757575]'>RELATED</p>
                     <div className='flex flex-col gap-4 mx-12 my-4'>
                     <Link href="/JoinUs" className="underline text-black ">
-                    WHAT ARE NIKE S DELIVERY OPTIONS?
+
             </Link> 
             <Link href="/JoinUs" className="underline text-black ">
             HOW DO I GET FREE DELIVERY ON NIKE ORDERS?

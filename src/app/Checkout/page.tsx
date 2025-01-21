@@ -24,19 +24,12 @@ const CheckoutPage = () => {
       </header>
 
       {/* main content */}
-      <main className="flex-grow flex flex-col lg:flex-row justify-center gap-8 my-12 px-4 sm:px-6 lg:px-12">
-        <section className="w-full lg:w-2/3 max-w-2xl">
-          <h2 className="text-xl font-bold mb-4">How would you like to get your order?</h2>
-          <p className="text-sm text-[#757575] mb-4">
-            Customs regulation for India require a copy of the recipient's KYC. The address on the KYC needs to match
-            the shipping address. Our courier will contact you via SMS/email to obtain a copy of your KYC. The KYC will
-            be stored securely and used solely for the purpose of clearing customs (including sharing it with customs
-            officials) for all orders and returns. If your KYC does not match your shipping address, please click the
-            link for more information.
-            <Link href="#" className="underline text-black ml-1">
-              Learn More
-            </Link>
-          </p>
+      <main className='flex  justify-center gap-12 my-12  w-[1440px] '>
+        <section className='w-[440px]  '>
+            <h2 className='text-xl font-bold '>How would you like to get your order?</h2>
+            <p className='text-sm text-[#757575] my-3 '>Customs regulation for India require a copy of the recipient's KYC. The address on the KYC needs to match the shipping address. Our courier will contact you via SMS/email to obtain a copy of your KYC. The KYC will be stored securely and used solely for the purpose of clearing customs (including sharing it with customs officials) for all orders and returns. If your KYC does not match your shipping address, please click the link for more information. <Link href="#" className="underline text-black ">
+            Learn More
+            </Link></p>
 
           <Link href="" className="flex items-center gap-4 px-4 py-3 border border-black font-medium rounded-xl mb-6">
             <Image src="/image/Frame (29).png" alt="Deliver" width={24} height={24} />
@@ -73,12 +66,13 @@ const CheckoutPage = () => {
               </div>
             </div>
 
-            <h2 className="text-xl font-bold">What's your contact information?</h2>
-
-            <div>
-              <input type="email" placeholder="Email" className="w-full px-3 py-2 border-2 rounded-md" />
-              <p className="text-sm text-[#757575] mt-1">A confirmation email will be sent after checkout.</p>
-            </div>
+<div className='flex flex-col gap-4 '>
+<h2 className='text-xl font-bold '>What's your contact information?/</h2>
+<div>
+<input type="email" name="Email" id=""  placeholder='Email' className='w-[440px] h-[56px] px-2 border-[2px] rounded-md '/>
+<p className='text-sm text-[#757575] my-1'>A confirmation email will be sent after checkout.</p>
+</div>
+</div>
 
             <div>
               <input type="tel" placeholder="Phone Number" className="w-full px-3 py-2 border-2 rounded-md" />
@@ -126,48 +120,63 @@ const CheckoutPage = () => {
             ))}
           </div>
         </section>
+{/* right side content */}
 
-        {/* Order Summary */}
-        <section className="w-full lg:w-1/3 max-w-md">
-          <h2 className="text-xl font-bold mb-4">Order Summary</h2>
-          <div className="space-y-2 mb-4">
-            <div className="flex justify-between">
-              <p className="text-sm text-[#8D8D8D]">Subtotal</p>
-              <p className="text-sm text-[#8D8D8D]">₹ 20 890.00</p>
+<section className='flex flex-col gap-4 w-[320px] h-[721px] '>
+<h2 className='text-xl font-bold '>Order Summary</h2>
+<div className='flex justify-between '>
+    <p className='text-sm text-[#8D8D8D] '>Subtotal</p> 
+    <p  className='text-sm text-[#8D8D8D] '>₹ 20 890.00</p>
+    </div>
+
+    <div className='flex justify-between '>
+    <p className='text-sm text-[#8D8D8D] '>Delivery/Shipping</p> 
+    <p  className='text-sm text-[#8D8D8D] '>Free</p>
+    </div>
+
+
+    <div className='flex justify-between border-y-2 py-3'>
+    <p className='text-sm '>Total</p> 
+    <p  className='text-sm  '>₹ 20 890.00</p>
+    </div>
+
+    <p className='text-[10px] my-2'>(The total reflects the price of your order, including all duties and taxes)</p>
+
+    <div className='flex flex-col gap-4 '>
+        <p className='font-bold '>Arrives Mon, 27 Mar - Wed, 12 Apr</p>
+        <div className='flex gap-4'>
+        <Image
+            src='/image/Image (13).png'
+            alt='Auto Layout Horizontal (1)'
+            width="150"
+            height="150"
+            />
+            <div>
+                <p className='font-bold text-sm'>Nike Dri-FIT ADV TechKnit Ultra Men's Short-Sleeve Running Top</p>
+                <p className='text-[12px] text-[#8D8D8D]'>Qty 1</p>
+                <p className='text-[12px] text-[#8D8D8D]'>Size L</p>
+                <p className='text-[12px] text-[#8D8D8D]'>₹ 3 895.00</p>
             </div>
-            <div className="flex justify-between">
-              <p className="text-sm text-[#8D8D8D]">Delivery/Shipping</p>
-              <p className="text-sm text-[#8D8D8D]">Free</p>
+          </div>
+
+
+        {/* product-2 */}
+        <div className='flex gap-4'>
+        <Image
+            src='/image/Image (15).png'
+            alt='Auto Layout Horizontal (1)'
+            width="150"
+            height="150"
+            />
+            <div>
+                <p className='font-bold text-sm'>Nike Dri-FIT ADV TechKnit Ultra Men's Short-Sleeve Running Top</p>
+                <p className='text-[12px] text-[#8D8D8D]'>Qty 1</p>
+                <p className='text-[12px] text-[#8D8D8D]'>Size L</p>
+                <p className='text-[12px] text-[#8D8D8D]'>₹ 3 895.00</p>
             </div>
-          </div>
-
-          <div className="flex justify-between border-y-2 py-3 mb-2">
-            <p className="font-bold">Total</p>
-            <p className="font-bold">₹ 20 890.00</p>
-          </div>
-
-          <p className="text-xs mb-4">(The total reflects the price of your order, including all duties and taxes)</p>
-
-          <div className="space-y-4">
-            <p className="font-bold">Arrives Mon, 27 Mar - Wed, 12 Apr</p>
-            {[
-              { src: "/image/Image (13).png", title: "Nike Dri-FIT ADV TechKnit Ultra Mens Short-Sleeve Running Top" },
-              { src: "/image/Image (15).png", title: "Nike Dri-FIT ADV TechKnit Ultra Mens Short-Sleeve Running Top" },
-            ].map((product, index) => (
-              <div key={index} className="flex gap-4">
-                <div className="w-1/3 aspect-w-1 aspect-h-1">
-                  <Image src={product.src || "/placeholder.svg"} alt={product.title} width={100} height={100} objectFit="cover" />
-                </div>
-                <div className="w-2/3">
-                  <p className="font-bold text-sm">{product.title}</p>
-                  <p className="text-xs text-[#8D8D8D]">Qty 1</p>
-                  <p className="text-xs text-[#8D8D8D]">Size L</p>
-                  <p className="text-xs text-[#8D8D8D]">₹ 3 895.00</p>
-                </div>
-              </div>
-            ))}
-          </div>
-        </section>
+        </div>
+    </div>
+</section>
       </main>
 
       {/* checkout page footer section */}
