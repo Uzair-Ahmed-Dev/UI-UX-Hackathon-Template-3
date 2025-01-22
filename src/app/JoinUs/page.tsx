@@ -74,7 +74,7 @@ const Page = () => {
               </p>
             </div>
             <p className="text-center text-gray-500 text-sm">
-              By creating an account you agree to Nike's{" "}
+              By creating an account you agree to Nikes{" "}
               <Link href="#" className="underline text-black">
                 Privacy Policy and Terms of Use.
               </Link>

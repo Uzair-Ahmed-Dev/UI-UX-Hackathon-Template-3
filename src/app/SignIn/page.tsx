@@ -38,7 +38,7 @@ const Page = () => {
               </Link>
             </div>
             <p className="text-center text-gray-500 text-sm">
-              By logging in, you agree to Nike's{" "}
+              By logging in, you agree to Nikes{" "}
               <Link href="#" className="underline">
                 Privacy Policy and Terms of Use.
               </Link>
