@@ -84,13 +84,13 @@ const HomePage = () => {
             </div>
           </div>
 
-          <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6'>
+          <div className='grid grid-cols-1  sm:grid-cols-2 lg:grid-cols-3 gap-6'>
             {[
               { src: "/image/Image (9).png", title: "Nike Air Max Pulse", category: "Women's Shoes" },
               { src: "/image/Image (10).png", title: "Nike Air Max Pulse", category: "Men's Shoes" },
               { src: "/image/Image (11).png", title: "Nike Air Max 97 SE", category: "Women's Shoes" },
             ].map((product, index) => (
-              <div key={index} className="border border-[#FFFFFF] rounded-md p-4">
+              <div key={index} className="border border-[#FFFFFF]  shadow-xl rounded-lg rounded-md p-4">
                 <div className="relative aspect-w-1 aspect-h-1 mb-4">
                   <Image
                     src={product.src || "/placeholder.svg"}
@@ -159,20 +159,20 @@ const HomePage = () => {
                     </Link>
                   </div>
                 </div>
-                <div className='grid grid-cols-1 sm:grid-cols-2 gap-6'>
+                <div className='grid grid-cols-1  sm:grid-cols-2 gap-6'>
                   {[13, 14, 15, 16].slice(index * 2, (index * 2) + 2).map((num) => (
-                    <div key={num} className='mb-6'>
-                      <div className='relative aspect-w-1 aspect-h-1 mb-4'>
+                    <div key={num} className='mb-6  border border-[#FFFFFF]  shadow-xl rounded-lg rounded-md p-4'>
+                      <div className='relative  aspect-w-1 aspect-h-1 mb-4'>
                         <Image
                           src={`/image/Image (${num}).png`}
                           alt='Product'
-                          width={300}
-                          height={300}
+                          width={350}
+                          height={350}
                           // layout="fill"
                           objectFit="cover"
                         />
                       </div>
-                      <div className='flex justify-between items-start'>
+                      <div className='flex justify-between items-start px-4 py-2'>
                         <div>
                           <p className="text-[#111111] font-medium">Nike Dri-FIT ADV TechKnit Ultra</p>
                           <p className="text-sm text-[#757575]">Mens Short-Sleeve Running Top</p>
@@ -218,7 +218,7 @@ const HomePage = () => {
           <h2 className='text-2xl sm:text-3xl font-bold mb-4'>The Essentials</h2>
           <div className='grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6'>
             {[19, 20, 18].map((num) => (
-              <div key={num} className='relative aspect-w-1 aspect-h-1'>
+              <div key={num} className='relative aspect-w-1 aspect-h-1 border border-[#FFFFFF]  shadow-xl rounded-lg rounded-md p-4'>
                 <Image
                   src={`/image/Image (${num}).png`}
                   alt='Essential'

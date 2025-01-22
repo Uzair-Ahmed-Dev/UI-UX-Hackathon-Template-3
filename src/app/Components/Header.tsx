@@ -117,6 +117,9 @@ const Header = () => {
             <Link href="/SignIn" className="text-[#111111]">
               Sign In
             </Link>
+            <Link href="/CartPage" className="text-[#111111]">
+              Add to Cart
+            </Link>
             <div className="mt-4">
             <input
               type="text"

@@ -74,7 +74,7 @@ const CartPage = () => {
           </div>
           <Link
             href="/Checkout"
-            className="w-full text-center py-4 px-4 bg-black text-white font-medium rounded-full hover:bg-gray-800 transition"
+            className="w-full text-center py-3 px-3 bg-black text-white font-medium rounded-full hover:bg-gray-800 transition"
           >
             Member Checkout
           </Link>
